@@ -1,0 +1,74 @@
+[
+  {
+    "ano_contribuicao": "2011",
+    "valor_contribuicao_inicial": "0",
+    "valor_contribuicao_final": "1.106,90",
+    "aliquota": "8"
+  },
+  {
+    "ano_contribuicao": "2011",
+    "valor_contribuicao_inicial": "1.106,91",
+    "valor_contribuicao_final": "1.844,83",
+    "aliquota": "9"
+  },
+  {
+    "ano_contribuicao": "2011",
+    "valor_contribuicao_inicial": "1.844,84",
+    "valor_contribuicao_final": "3.689,66",
+    "aliquota": "11"
+  },
+  {
+    "ano_contribuicao": "2012",
+    "valor_contribuicao_inicial": "0",
+    "valor_contribuicao_final": "1000,00",
+    "aliquota": "7"
+  },
+  {
+    "ano_contribuicao": "2012",
+    "valor_contribuicao_inicial": "1.000,01",
+    "valor_contribuicao_final": "1.500,00",
+    "aliquota": "8"
+  },
+  {
+    "ano_contribuicao": "2012",
+    "valor_contribuicao_inicial": "1.500,01",
+    "valor_contribuicao_final": "3.000,00",
+    "aliquota": "9"
+  },
+  {
+    "ano_contribuicao": "2012",
+    "valor_contribuicao_inicial": "3.000,01",
+    "valor_contribuicao_final": "4.000,00",
+    "aliquota": "11"
+  },
+  {
+    "ano_contribuicao": "2013",
+    "valor_contribuicao_inicial": "0",
+    "valor_contribuicao_final": "1500,00",
+    "aliquota": "7"
+  },
+  {
+    "ano_contribuicao": "2013",
+    "valor_contribuicao_inicial": "1.500,01",
+    "valor_contribuicao_final": "2.500,00",
+    "aliquota": "8"
+  },
+  {
+    "ano_contribuicao": "2013",
+    "valor_contribuicao_inicial": "2.500,01",
+    "valor_contribuicao_final": "3.500,00",
+    "aliquota": "9"
+  },
+  {
+    "ano_contribuicao": "2013",
+    "valor_contribuicao_inicial": "3.500,01",
+    "valor_contribuicao_final": "4.500,00",
+    "aliquota": "10,5"
+  },
+  {
+    "ano_contribuicao": "2013",
+    "valor_contribuicao_inicial": "4.500,01",
+    "valor_contribuicao_final": "5.500,00",
+    "aliquota": "11"
+  }
+]
